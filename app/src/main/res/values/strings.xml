@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DogGo</string>
+    <string name="title_activity_maps">DogGo</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+</resources>
